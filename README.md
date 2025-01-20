@@ -1,7 +1,6 @@
 # ChatGPT gene annotation
-
-- This project demonstrates a workflow that can annotate all the genes in the Human Genome with ChatGPT.
-- The whole workflow costs about $1 with using the ChatGPT API
+- This project is a workflow to annotate all Human Genome genes with ChatGPT.
+- The whole workflow cost about $1 using the ChatGPT API credits.
 
 ## Requirements
 - You need an API key from openAI: https://platform.openai.com/settings/organization/projects 
